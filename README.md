@@ -4,15 +4,16 @@ This repository contains a full-stack GPT-wrapper mobile app developed using **R
 
 ## Features
 
-- [x] Mobile GPT App built using **React Native** with **Expo**
-- [x] Backend API built with **Flask** for interacting with language models
-- [x] Cross-platform support (iOS and Android)
-- [ ] Voice mode interaction
-- [ ] Commands for packaging app for android and ios
-- [ ] Connect with MySQL database to store user data and conversation history
-- [ ] Implement user authentication and authorization
-- [ ] Deploy the backend API to a cloud platform
-- [ ] Enable push notifications for mobile app
+- [x] **Mobile GPT Application**: Mobile GPT App built using **React Native** with **Expo**.
+- [x] **Backend API**: built with **Flask** for interacting with language models.
+- [x] **Cross-Platform Compatibility**: Supports both iOS and Android devices.
+- [ ] **Voice Interaction Mode**: Enable users to interact via voice commands.
+- [ ] **Streaming Text Output**: Implement streaming text output for responses.
+- [ ] **App Packaging Commands**: streamlined commands for building and packaging the app for iOS and Android deployment.
+- [ ] **Database Integration**: Connect with a MySQL database to store user data and conversation history.
+- [ ] **User Authentication and Authorization**: Implement secure user authentication and authorization mechanism.
+- [ ] **Cloud Deployment**: Deploy the backend API to a cloud platform.
+- [ ] **Push Notifications**: Enable push notifications for mobile app.
 
 ## Prerequisites
 

@@ -1,4 +1,4 @@
-# React Native with Expo and Flask Backend
+# GPT-Wrapper Mobile App
 
 This repository contains a full-stack GPT-wrapper mobile app developed using **React Native** and **Expo** for the frontend, with a **Flask** backend for handling API requests.
 

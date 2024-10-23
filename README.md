@@ -67,4 +67,4 @@ If you want to use the backend API, follow these steps:
     python main.py
     ```
     The backend should now be running on port 8080.
-4. Change the code in frontend/components/ChatScreen.js to point to the backend server. Replace the URL in the fetch request with your backend server URL.
+4. Change the code in [frontend/components/ChatScreen.js](frontend/components/ChatScreen.js) to point to the backend server. Replace the URL in the fetch request with your backend server URL.

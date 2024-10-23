@@ -27,7 +27,7 @@ This repository contains a full-stack GPT-wrapper mobile app developed using **R
 ## Installation
 
 ### Environment Variables
-1. Create .env file under frontend and backend folders. Write
+1. Create .env file under both frontend and backend folders. Write
     ```bash
     OPENAI_API_KEY=your_openai_api_key
     ```
